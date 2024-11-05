@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">922316862518</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsGSp-T0SaPmuJpXIe4hVRycpeRXiDY7s</string>
+    <string name="google_app_id" translatable="false">1:922316862518:android:062f3c5648bae9d9d0d497</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsGSp-T0SaPmuJpXIe4hVRycpeRXiDY7s</string>
+    <string name="google_storage_bucket" translatable="false">notemaster-97e12.appspot.com</string>
+    <string name="project_id" translatable="false">notemaster-97e12</string>
+</resources>
